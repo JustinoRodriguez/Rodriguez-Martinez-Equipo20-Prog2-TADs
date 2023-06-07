@@ -1,6 +1,6 @@
 package uy.edu.um.prog2.adt.hash;
 
-import uy.edu.um.prog2.adt.linkedlist.MyLinkedList;
+import uy.edu.um.prog2.adt.linkedlist.MyLinkedListImpl;
 import uy.edu.um.prog2.adt.linkedlist.MyLinkedListImpl;
 
 public class HashTableImpl<K,T> implements  MyHashTable<K,T>{
